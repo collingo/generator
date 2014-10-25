@@ -1,7 +1,7 @@
 {
   "name": "generator",
   "version": "0.0.1",
-  "description": "Simple command line tool for generating project boilerplates",
+  "description": "Simple command line tool for generating boilerplates",
   "main": "src/generator.js",
   "directories": {
     "test": "test"
