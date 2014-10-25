@@ -1,0 +1,32 @@
+{
+  "name": "generator",
+  "version": "0.0.1",
+  "description": "Simple command line tool for generating project boilerplates",
+  "main": "src/generator.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "change-case": "^2.1.5",
+    "lodash.template": "^2.4.1",
+    "octonode": "^0.6.9",
+    "shelljs": "^0.3.0"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/collingo/generator.git"
+  },
+  "author": "Nick Collings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/collingo/generator/issues"
+  },
+  "homepage": "https://github.com/collingo/generator",
+  "bin": {
+    "generator": "src/generator.js"
+  }
+}
