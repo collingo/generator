@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "Simple command line tool for generating boilerplates",
   "main": "src/generator.js",
-  "directories": {
-    "test": "test"
-  },
   "dependencies": {
     "change-case": "^2.1.5",
     "lodash.template": "^2.4.1",
